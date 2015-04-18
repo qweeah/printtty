@@ -20,7 +20,7 @@ MODULE_AUTHOR("Peter Jay Salzman & Billy");
 #define BUF_LEN 800 //length of buffer
 
 /* 
- * This function will automatically add an line feed
+ * This function will automatically add a line feed
  */
 static void print_string(char *str)
 {
